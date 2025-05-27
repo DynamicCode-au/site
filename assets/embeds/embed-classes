@@ -1,0 +1,15 @@
+<!-- hapana-widget.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://widget.hapana.com/hapana_widget.js"></script>
+  </head>
+  <body>
+    <hapana-widget
+      data-type="classes"
+      widget-id="cXd6L3hDMWpZeFVqYWFVN01oWGlDdz09"
+      instructor-id=""
+      session-type=""
+    ></hapana-widget>
+  </body>
+</html>
