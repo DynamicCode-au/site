@@ -1,3 +1,7 @@
 .Mui-packageCard-OFS-card {
 border: 5px solid purple;
 }
+
+.Mui-classesWidget-OFS-h4.error {
+	color: green;
+}
